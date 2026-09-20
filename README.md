@@ -156,7 +156,7 @@ Please enter your choice:
 
 View the actual output of the program:
 
-[![View Output](https://github.com/dh-2006/Functional-Treat/blob/main/output.png)](output.png)
+[![View Output](https://img.shields.io/badge/👀_View_Output-red?style=for-the-badge)](https://github.com/dh-2006/Functional-Treat/blob/main/output.png)
 
 ---
 
@@ -167,12 +167,11 @@ Watch the complete working demonstration:
 [![Watch Demo](https://img.shields.io/badge/▶️_Watch_Project_Demo-blue?style=for-the-badge)](YOUR_GOOGLE_DRIVE_DEMO_LINK)
 
 ---
-
 ## 💻 Source Code
 
 View the complete Python source code:
 
-[![Open Source Code](https://github.com/dh-2006/Functional-Treat/blob/main/Functional%20Treat.py)](Functional Tteat.py)
+[![Open Source Code](https://img.shields.io/badge/💻_View_Source_Code-green?style=for-the-badge)](https://github.com/dh-2006/Functional-Treat/blob/main/Functional%20Treat.py)
 
 ---
 
